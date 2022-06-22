@@ -1,0 +1,54 @@
+
+.table1,.td1,.th1 {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table1{
+    width: 18%;
+    right: 5px;
+    position:absolute;
+}
+.th1 {
+    text-align: center;
+    padding: 5px;
+}
+.td1{
+    padding: 5px;
+    
+}
+
+/*  */
+
+.table2,.th2 {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table2{
+    width: 75%;
+}
+.th2 {
+    width: 25%;
+    text-align: center;
+    padding: 5px;
+}
+.td2{
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    padding: 5px;
+    height: 40px;
+    width: 25%;
+}
+.p{
+    display: inline;
+    text-align: right;
+    padding: 10px;
+    background-color: rgb(255, 196, 196);
+}
+.fm{
+    border: 0;
+}
+.tr{
+    text-align: center;
+}
